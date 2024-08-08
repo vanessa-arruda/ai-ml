@@ -9,6 +9,7 @@ matplotlib = "*"
 tensorflow = "*"
 seaborn = "*"
 scikit-learn = "*"
+contractions = "*"
 
 [dev-packages]
 
